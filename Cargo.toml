@@ -1,5 +1,5 @@
 [package]
-name = "spotify-client"
+name = "spotify-client-rs"
 authors = ["Ennui.lw"]
 version = "0.1.0"
 edition = "2021"

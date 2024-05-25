@@ -2063,7 +2063,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "spotify-client"
+name = "spotify-client-rs"
 version = "0.1.0"
 dependencies = [
  "anyhow",
